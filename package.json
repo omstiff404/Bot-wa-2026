@@ -1,0 +1,27 @@
+{
+  "name": "stiff404-wabot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot ESM 2026 dengan Pairing Code",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node --watch main.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "esm"
+  ],
+  "author": "stiff404",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.16.2"
+  },
+  "engines": {
+    "node": ">=21.0.0 && <=24.0.0"
+  }
+}
