@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "groups": [],
+  "settings": {
+    "antilink": true,
+    "antispam": true,
+    "autoreply": true
+  },
+  "statistics": {
+    "messages": 0,
+    "commands": 0
+  }
+}
